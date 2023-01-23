@@ -1,5 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+## DATE: 04.01.2023
+## NAME: ADHITHYA A
+## REF NO: 22001593
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +44,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![EX 1 1](https://user-images.githubusercontent.com/122251223/214103825-a6e7ee63-b346-48c7-bef5-df4af3a1b2ef.png)
 
 
 ## RESULT
